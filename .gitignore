@@ -1,0 +1,13 @@
+.vs/
+
+Gestion_BU/bin/
+Gestion_BU/obj/
+
+Core/bin/
+Core/obj/
+
+Infrastructure/bin/
+Infrastructure/obj/
+
+Web/bin/
+Web/obj/
